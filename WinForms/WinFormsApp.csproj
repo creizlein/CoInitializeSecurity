@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <OutputPath>..\bin</OutputPath>
+    <TargetFrameworks>net5.0-windows;net6.0-windows</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+    <GenerateDocumentation>false</GenerateDocumentation>
+    <BuildProjectReferences>false</BuildProjectReferences>
+    <UseCommonOutputDirectory>true</UseCommonOutputDirectory>
+  </PropertyGroup>
+
+</Project>
